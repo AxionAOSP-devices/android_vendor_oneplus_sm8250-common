@@ -2509,6 +2509,7 @@ PRODUCT_PACKAGES += \
     libkeymasterprovision \
     libkeymasterutils \
     liblbs_core \
+    liblearningmodule \
     libloc_api_v02 \
     libloc_core \
     libloc_socket \
@@ -2519,6 +2520,7 @@ PRODUCT_PACKAGES += \
     liblowi_wifihal \
     liblqe \
     libmdmimgload \
+    libmeters \
     libmidasserviceintf \
     libmidasserviceintf_aidl \
     libminkdescriptor \
